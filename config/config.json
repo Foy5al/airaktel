@@ -1,0 +1,58 @@
+{
+  "site": {
+    "title": "AirAktel Net",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.svg",
+    "logo_width": "240",
+    "logo_height": "34",
+    "logo_text": "AirAktel"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "params": {
+    "tag_manager_id": "",
+    "contact_form_action": "#",
+    "footer_content": "Connecting you to a faster, more reliable internet experience. Our mission is to provide seamless, high-speed broadband that keeps you connected to what matters most whether at home, work, or on the go.",
+    "copyright": "Designed & Developed By [Mohammad Foysal](https:dev-foysal.netlify.app)"
+  },
+
+  "contact_info": {
+    "phone": "+8801813938424",
+    "email": "airaktel@gmail.com",
+    "location": " Hazi Idris Mia's Villa, South Sonapahar, High School Road, Jorargonj-4324, Mirsarai, Chattogram"
+  },
+
+  "nav_button": {
+    "enable": false,
+    "label": "Download Now",
+    "link": "https://themefisher.com/products/andromeda-light-nextjs"
+  },
+
+  "metadata": {
+    "meta_author": "Airaktel - Leading ISP in Bangladesh",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Airaktel is a top-rated Internet Service Provider in Chattogram Bangladesh, offering high-speed broadband and reliable connectivity for homes and businesses. Experience seamless internet with Airaktel."
+  },
+
+  "call_to_action": {
+    "enable": true,
+    "title": "Get Your Connection Now",
+    "content": "Contact us in the .",
+    "button": {
+      "label": "Download The Theme",
+      "link": "https://themefisher.com/products/andromeda-light-nextjs"
+    }
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "backlog solutions",
+    "settings": {}
+  }
+}
