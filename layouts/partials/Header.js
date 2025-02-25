@@ -54,10 +54,10 @@ const Header = () => {
             {/*  <Logo src={logo} /> */}
             <Link href="/" className="navbar-brand block">
               <div>
-                <div>
+                <div className="text-2xl font-bold">
                   Air <span className="text-red-900">Aktel</span>
                 </div>
-                <div className="bg-black p-1 text-white text-sm font-thin">
+                <div className="w-fit bg-black p-1 text-white text-sm font-thin">
                   Popular Internet Service
                 </div>
               </div>

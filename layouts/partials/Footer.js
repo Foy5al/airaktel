@@ -14,7 +14,17 @@ const Footer = () => {
       <div className="container">
         <div className="row border-y border-border py-12">
           <div className="animate md:col-6 lg:col-3">
-            <Logo />
+            {/* <Logo /> */}
+            <Link href="/" className="navbar-brand block">
+              <div>
+                <div className="text-2xl font-bold">
+                  Air <span className="text-red-900">Aktel</span>
+                </div>
+                <div className="w-fit bg-black p-1 text-white text-sm font-thin">
+                  Popular Internet Service
+                </div>
+              </div>
+            </Link>
             {markdownify(footer_content, "p", "mt-3")}
           </div>
           <div className="animate mt-8 md:col-6 lg:col-3 lg:mt-0">

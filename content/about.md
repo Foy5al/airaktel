@@ -73,19 +73,10 @@ our_member:
 ## office
 our_office:
   subtitle: OUR OFFICES
-  title: Made With Love Of Around The </br> World With Many Offices
-  content: We were freelance designers and developers, constantly finding </br> ourselves deep in vague feedback. This made every client and team
+  title: Made With Passion In </br> Our Single Office
+  content: We are a dedicated local ISP, committed to providing reliable and high-speed internet services to our community. Our team works tirelessly to ensure seamless connectivity and exceptional customer support.
   countries:
-    - flag: /images/about/flags/us.png
-      name: NewYork, USA
-      location: 219 Bald Hill Drive Oakland Gardens, NY 11364
-    - flag: /images/about/flags/au.png
-      name: Australia, Perth
-      location: Flat 23 80 Anthony Circlet Port Guiseppe, TAS 2691
-    - flag: /images/about/flags/germany.png
-      name: Berlin, Germany
-      location: Jl Raya Dewi Sartika Ged Harapan Masa, Br Germeny
-    - flag: /images/about/flags/china.png
-      name: China, Wohan
-      location: 1hao Wen Ti Huo Dong Zhong Xin 1ceng Jian Xing
+    - flag: /images/about/flags/bd.png
+      name: Chattogram, BD
+      location: Hazi Idris Mia's Villa, South Sonapahar, High School Road, Jorargonj-4324, Mirsarai
 ---
