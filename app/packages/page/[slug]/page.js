@@ -3,6 +3,7 @@ import config from "@config/config.json";
 import Banner from "@layouts/components/Banner";
 import Cta from "@layouts/components/Cta";
 import GSAPWrapper from "@layouts/components/GSAPWrapper";
+import Package from "@layouts/partials/Package";
 import SeoMeta from "@layouts/partials/SeoMeta";
 import { getListPage, getSinglePage } from "@lib/contentParser";
 import Post from "@partials/Post";
@@ -32,7 +33,8 @@ const BlogPagination = async ({ params }) => {
           <div className="row justify-center pb-16 pt-20 ">
             {currentPosts.map((post, i) => (
               <div key={`key-${i}`} className="mb-8 lg:col-5">
-                <Post post={post} />
+                {/*  <Post post={post} /> */}
+                <Package Package={post} />
               </div>
             ))}
           </div>
