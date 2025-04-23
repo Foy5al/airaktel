@@ -6,7 +6,6 @@ import GSAPWrapper from "@layouts/components/GSAPWrapper";
 import Package from "@layouts/partials/Package";
 import SeoMeta from "@layouts/partials/SeoMeta";
 import { getListPage, getSinglePage } from "@lib/contentParser";
-import Post from "@partials/Post";
 const { blog_folder } = config.settings;
 
 // blog pagination

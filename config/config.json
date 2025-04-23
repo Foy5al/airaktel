@@ -43,10 +43,9 @@
   "call_to_action": {
     "enable": true,
     "title": "Get Your Connection Now",
-    "content": "Contact us in the .",
     "button": {
-      "label": "Download The Theme",
-      "link": "https://themefisher.com/products/andromeda-light-nextjs"
+      "label": "Contact us Now",
+      "link": "tel:+8801813938424"
     }
   },
 

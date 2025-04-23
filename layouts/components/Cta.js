@@ -5,7 +5,7 @@ import Circle from "./Circle";
 import ImageFallback from "./ImageFallback";
 
 function Cta() {
-  const { title, content, button, enable } = config.call_to_action;
+  const { title, button, enable } = config.call_to_action;
   if (!enable) return;
 
   return (
@@ -14,7 +14,6 @@ function Cta() {
         <div className="section relative px-4 text-center">
           <div className="animate">
             {markdownify(title, "h2", "section-title")}
-            {markdownify(content, "p", "mt-10")}
             <Link href={button.link} className="btn btn-primary mt-10">
               {button.label}
             </Link>

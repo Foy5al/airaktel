@@ -6,36 +6,80 @@ draft: false
 
 #### 1. Definitions
 
-We collect certain identifying personal data when you sign up to our Service such as your name, email address, PayPal address (if different from email address), and telephone number. The personal data we collect from you is disclosed only in accordance with our Terms of Service and/or this Privacy Policy.Conclude collects Slack account and access information from Users for the purposes of connecting to the Slack API and to authenticate access to information on the Conclude website. Whenever you visit our Site, we may collect non-identifying information from you, such as referring URL, browser, operating system, cookie information, and Internet Service Provider. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, this information alone cannot usually be used to identify you.The term “personal data” does not include any anonymized and aggregated data made on the basis of personal data, which are wholly owned by Conclude.
+“Service” refers to the domestic internet connectivity and related services provided by AirAktel.
+“Subscriber” means any individual or entity that subscribes to the Service.
+“Personal Data” includes information such as your name, billing address, payment details, service address, email, telephone number, and government-issued identification (if required).
+“Non-Identifying Information” refers to data such as IP addresses, device identifiers, browser type, bandwidth usage, and browsing history. This data, when anonymized and aggregated, is owned solely by AirAktel and does not identify individual users.
 
 #### 2. General Terms
 
-##### Service Provided AS IS
+##### Service Provision
 
-The Service is provided for free during this pilot project, and is provided “as is” with no warranty. Conclude will provide User support for the Service, however; Conclude is not committed to any level of service or availability of the Service. A further description of the Service and our user support is available at the Site.
+The Service is provided “AS IS” and “AS AVAILABLE” without warranties of any kind, express or implied. AirAktel does not guarantee uninterrupted, error-free, or secure Service. Scheduled maintenance or unforeseen outages may occur.
 
-##### Interoperation with Slack
+##### Subscription and Payment
 
-The Service interoperates with Slack.com, and depends on the continuing availability and access to Slack. If for any reason Conclude cannot access or use Slack (including without limitation, change in terms or increase in fees charged by Slack), Conclude may not be able to provide all of the functions of its Service. No refund or credit, if applicable, will be provided for temporary unavailability of Slack (for example, maintenance windows).
+Subscribers agree to pay all fees associated with their chosen plan. Failure to pay may result in Service suspension or termination. Fees are non-refundable except as required by law.
 
-##### Company Liability
+##### Third-Party Dependencies
 
-If you enter into this agreement on behalf of a company, you hereby agree that the company is responsible under this Agreement for all actions and omissions conducted by its designated users of the Service.
+The Service relies on third-party infrastructure (e.g., network providers, hardware vendors). AirAktel is not liable for disruptions caused by these third parties.
+
+##### Liability
+
+If subscribing on behalf of a company/organization, you agree the entity is fully responsible for all users and activities under its account. AirAktel’s liability is limited to fees paid during the month an issue arose.
 
 #### 3. Rules of Use
 
-1. must keep passwords secure and confidential;
-2. are solely responsible for User Data and all activity in their account while using the Service;
-3. must use commercially reasonable efforts to prevent unauthorized access to their account, and notify Conclude promptly of any such unauthorized access; and
-4. may use the Service only in accordance with Conclude’s online user guide and all applicable laws and regulations.
+##### Subscribers agree to:
 
-###### You must not
+- Safeguard account credentials (e.g., Wi-Fi passwords, router access).
+- Use the Service lawfully and refrain from unauthorized activities (e.g., hacking, copyright infringement, spamming).
+- Not resell, tamper with, or overload the Service or equipment.
+- Comply with all applicable laws, including data privacy regulations.
 
-- Enhance or improve User experience, our Site, or our Service.
+###### Prohibited Activities Include
+
+- Illegal file sharing or torrenting.
 - Process transactions.
-- Send emails about our Site or respond to inquiries.
-- As this Privacy Policy and our Terms of Service.
+- Unauthorized network access or interference.
+
+#### 4. Data Collection and Privacy
+
+##### Data Use
+
+We collect Personal Data to:
+
+- Provide and bill for the Service.
+- Troubleshoot issues and improve Service quality.
+- Comply with legal obligations (e.g., responding to lawful subpoenas).
+
+Non-Identifying Information is used for network optimization, analytics, and internal reporting.
+
+##### Data Sharing
+
+Personal Data may be shared with:
+
+- Payment processors (e.g., credit card companies or mfs).
+- Technical partners necessary for Service delivery.
+- Government authorities as legally required.
+
+Data may be stored on servers located in Bangladesh or other regions. By using the Service, you consent to such transfers.
 
 ##### 5. Intellectual Property Rights
 
-Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you choose to provide information to us, Conclude transfers Personal Information to Google Cloud Platform and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+All infrastructure, software, trademarks, and documentation related to the Service are owned by AirAktel. Subscribers retain ownership of their data but grant AirAktel a non-exclusive license to process it for Service provision.
+
+##### 6. Termination
+
+AirAktel may terminate Service for breach of these Terms, non-payment, or unlawful use. Subscribers may terminate by following the cancellation process outlined on our website.
+
+##### 7. Amendments
+
+We reserve the right to update these Terms. Continued use of the Service constitutes acceptance of revised Terms.
+
+##### 8. Governing Law
+
+These Terms are governed by the laws of Bangladesh. Disputes shall be resolved in the courts of Dhaka, Bangladesh.
+
+###### AirAktel reserves the right to enforce these Terms to ensure lawful, safe, and reliable Service for all Subscribers.
