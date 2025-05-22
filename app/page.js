@@ -15,13 +15,16 @@ const Home = async () => {
     frontmatter;
   return (
     <GSAPWrapper>
-      <SeoMeta title="Home" />
+      {/* <SeoMeta title="Home" />
       <HomeBanner banner={banner} brands={brands} />
       <Features features={features} />
       <ShortIntro intro={intro} />
       <SpecialFeatures speciality={speciality} />
       <Testimonial testimonial={testimonial} />
-      <Cta />
+      <Cta /> */}
+      <div className="h-screen flex items-center justify-center">
+        <h1 className="text-4xl font-semibold">Under Maintance.....</h1>
+      </div>
     </GSAPWrapper>
   );
 };

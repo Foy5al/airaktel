@@ -65,18 +65,11 @@ After finishing all the customization, you can create a production build by runn
 npm run build
 ```
 
-<!-- reporting issue -->
-
-## 🐞Reporting Issues
-
-We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/themefisher/andromeda-light-nextjs/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/andromeda-light-nextjs/issues).
-
 <!-- support -->
 
 ## 💬Technical Support or Questions (Paid)
 
-If you have questions or need help integrating the product please [contact us](https://themefisher.com/contact) instead of opening an issue.
+If you have questions or need help integrating the product please [contact us](https://dev-foysal.netlify.app/contact) instead of opening an issue.
 
 ## 👨‍💻Hire Us
 
